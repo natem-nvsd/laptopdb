@@ -1,0 +1,19 @@
+html {
+	background-color: #2d2d2d;
+}
+
+.titlenav {
+	display: flex;
+	flex-direction: column;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 50px;
+	background-color: lightblue;
+	text-justify: left;
+	text-align: center;
+}
+
+.logoText {
+}
